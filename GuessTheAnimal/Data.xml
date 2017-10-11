@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <Animal>
+    <Name>Lion</Name>
+    <Has>Mane</Has>
+    <SoundItMakes>Roar</SoundItMakes>
+    <Colour>Yellow</Colour>
+    <Skin>Plain</Skin>
+  </Animal>
+  <Animal>
+    <Name>Royal Bengal Tiger</Name>
+    <Has>Fur</Has>
+    <SoundItMakes>Roar</SoundItMakes>
+    <Colour>Yellow</Colour>
+    <Skin>Striped</Skin>
+  </Animal>
+  <Animal>
+    <Name>Jaguar</Name>
+    <Has>Fur</Has>
+    <SoundItMakes>Roar</SoundItMakes>
+    <Colour>Yellow</Colour>
+    <Skin>Spotted</Skin>
+  </Animal>
+  <Animal>
+    <Name>Giraffe</Name>
+    <Has>Long Neck</Has>
+    <SoundItMakes>Silent</SoundItMakes>
+    <Colour>Yellow</Colour>
+    <Skin>Spotted</Skin>
+  </Animal>
+  <Animal>
+    <Name>Brown Bear</Name>
+    <Has>Fur</Has>
+    <SoundItMakes>Roar</SoundItMakes>
+    <Colour>Brown</Colour>
+    <Skin>Plain</Skin>
+  </Animal>
+  <QuestionSequence>
+    <ParameterName>Has</ParameterName>
+    <Question>What out of the following does the animal have?</Question>
+  </QuestionSequence>
+  <QuestionSequence>
+    <ParameterName>Colour</ParameterName>
+    <Question>What colour is the animal?</Question>
+  </QuestionSequence>
+  <QuestionSequence>
+    <ParameterName>SoundItMakes</ParameterName>
+    <Question>What kind of sound does the animal have?</Question>
+  </QuestionSequence>
+  <QuestionSequence>
+    <ParameterName>Skin</ParameterName>
+    <Question>What kind of skin does the animal have?</Question>
+  </QuestionSequence>
+</Data>
